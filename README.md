@@ -8,7 +8,7 @@ It is demo project for mircoservice based architecture in Go
 
 1. Clone the repo
    ```sh
-   git clone https://https://github.com/avinilcodes/meetup-demo
+   git clone https://github.com/avinilcodes/meetup-demo
    ```
 2. Install MongoDB compass from their website(UI)
     ##### start server using default port
